@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/jonaed1230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="raikusy" height="30" width="40" /></a>
-<a href="https://twitter.com/jonaed1230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raikusy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jonaed1230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raikusy" height="30" width="40" /></a>
-<a href="https://fb.com/jonaed.com.bd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raikusy" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jonaed_1230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raikusy" height="30" width="40" /></a>
+<a href="https://codepen.io/jonaed1230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jonaed1230" height="30" width="40" /></a>
+<a href="https://twitter.com/jonaed1230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jonaed1230" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jonaed1230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonaed1230" height="30" width="40" /></a>
+<a href="https://fb.com/jonaed.com.bd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jonaed1230" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jonaed_1230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jonaed1230" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
