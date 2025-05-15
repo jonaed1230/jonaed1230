@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jonaed1230" target="blank"><img src="https://img.shields.io/twitter/follow/jonaed1230?logo=twitter&style=for-the-badge" alt="jonaed1230" /></a> </p>
 
-- 🔭 I’m currently working on [Ingenjörsautomation AB](https://www.allabolag.se/5592275019/ingenjorsautomation-ab)
+- 🔭 I’m currently working on [NVM Soft](https://nvmsoft.com)
 
-- 🌱 I’m currently learning **System Design & Architecture**
+- 🌱 I’m currently learning **Web Automation**
 
 - 💬 Ask me about **react, next, nest, node, javscript, typescript**
 
